@@ -40,7 +40,6 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-_____
 
 <a href="https://github.com/jm-petilona">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
@@ -48,7 +47,6 @@ _____
 </a>
 
 <br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.instagram.com/jm_petilona/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jm_petilona__-blue?style=flat-square&logo=instagram"></a>

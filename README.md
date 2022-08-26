@@ -1,6 +1,6 @@
 ![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
 
-Hi there, thanks for stopping by, this is **Charles Zhang**.
+Hi there, thanks for stopping by, this is **jm Patatas**.
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
@@ -32,4 +32,4 @@ const charles = {
 
 ---
 
-⭐️ From [@iCharlesZ](https://github.com/iCharlesZ)
+⭐️ From [@Patatas](https://github.com/jm-petilona)

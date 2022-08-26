@@ -26,9 +26,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jm-petilona&show_icons=true&locale=en" alt="jm-petilona" /></p>
 &nbsp;
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jm-petilona&" alt="jm-petilona" /></p>
+&nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jm-petilona&show_icons=true&locale=en&layout=compact" alt="jm-petilona" /></p>
 &nbsp;
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jm-petilona&" alt="jm-petilona" /></p>
+
 
 
 ⭐️ From [@Patatas](https://github.com/jm-petilona "jm-petilona")

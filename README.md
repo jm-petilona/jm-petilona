@@ -51,9 +51,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://github.com/jm-petilona/"><img alt="Website" src="https://img.shields.io/badge/Website-github.com/jm-petilona/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jm-petilona/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/jm_petilona/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://github.com/jm-petilona/"><img alt="Website" src="https://img.shields.io/badge/Website-https://github.com/jm-petilona/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jm-petilona/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-__jm-petilona-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/jm_petilona/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jm_petilona__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:officialjmacc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-officialjmacc@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 

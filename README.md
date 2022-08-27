@@ -31,6 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jm-petilona&show_icons=true&locale=en&layout=compact" alt="jm-petilona" /></p>
 &nbsp;
 <br>
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jm-petilona&bg_color=282526&color=e5dce4&line=057c03&point=f0e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ⭐️ From [@Patatas](https://github.com/jm-petilona "jm-petilona")

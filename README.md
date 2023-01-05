@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development , Cyber Security**
 
-- 📫 How to reach me **officialjmacc@gmail**
+- 📫 How to reach me **officialjmacc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
